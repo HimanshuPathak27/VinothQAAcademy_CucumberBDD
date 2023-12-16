@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-16T08:52:29 IST" name="NextGenAI Automation Suite" finished-at="2023-12-16T08:57:26 IST" duration-ms="296865">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.Run@5f354bcf]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2023-12-16T08:52:29 IST" name="NextGenAI Automation Tests" finished-at="2023-12-16T08:57:26 IST" duration-ms="296865">
+      <class name="TestRunner.Run">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:TestRunner.Run@5f354bcf]" started-at="2023-12-16T08:52:29 IST" name="setUpClass" finished-at="2023-12-16T08:52:32 IST" duration-ms="2626" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@746fd19b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.Run@5f354bcf]" started-at="2023-12-16T08:52:32 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-12-16T08:52:52 IST" duration-ms="20058" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate Alerts and Popup Page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Alerts & Popup"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.Run@5f354bcf]" started-at="2023-12-16T08:52:52 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-12-16T08:53:09 IST" duration-ms="16932" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Navigate to Registration Page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Demo Sites Navigations"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.Run@5f354bcf]" started-at="2023-12-16T08:53:09 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-12-16T08:53:25 IST" duration-ms="16408" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Navigate to Dynamic Transaction Page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Demo Sites Navigations"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.Run@5f354bcf]" started-at="2023-12-16T08:53:25 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-12-16T08:53:40 IST" duration-ms="14553" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Navigate to Mouse Event Page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Demo Sites Navigations"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.Run@5f354bcf]" started-at="2023-12-16T08:53:40 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-12-16T08:53:56 IST" duration-ms="15884" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Navigate to Alert and Popup Page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Demo Sites Navigations"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.Run@5f354bcf]" started-at="2023-12-16T08:53:56 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-12-16T08:54:12 IST" duration-ms="16496" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Navigate to Multiple Windows Page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Demo Sites Navigations"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.Run@5f354bcf]" started-at="2023-12-16T08:54:12 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-12-16T08:54:53 IST" duration-ms="40684" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Navigate to iFrames Page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Demo Sites Navigations"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.Run@5f354bcf]" started-at="2023-12-16T08:54:53 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-12-16T08:55:18 IST" duration-ms="24453" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Navigate to WebTable Page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Demo Sites Navigations"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.Run@5f354bcf]" started-at="2023-12-16T08:55:18 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-12-16T08:55:43 IST" duration-ms="25200" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Navigate to Progress Bar Page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Demo Sites Navigations"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.Run@5f354bcf]" started-at="2023-12-16T08:55:43 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-12-16T08:56:26 IST" duration-ms="43552" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate Mouse Events Page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Mouse Events"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.Run@5f354bcf]" started-at="2023-12-16T08:56:26 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-12-16T08:56:56 IST" duration-ms="30127" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate Multiple Windows Page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Multiple Windows"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunner.Run@5f354bcf]" started-at="2023-12-16T08:56:56 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-12-16T08:57:26 IST" duration-ms="29408" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Register a New User"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Registration"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:TestRunner.Run@5f354bcf]" started-at="2023-12-16T08:57:26 IST" name="tearDownClass" finished-at="2023-12-16T08:57:26 IST" duration-ms="397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- TestRunner.Run -->
+    </test> <!-- NextGenAI Automation Tests -->
+  </suite> <!-- NextGenAI Automation Suite -->
+</testng-results>

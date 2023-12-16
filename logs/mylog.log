@@ -1,0 +1,113 @@
+[INFO ] 2023-12-16 08:52:36.357 [main] StepDefinitions - Setup is Done
+[INFO ] 2023-12-16 08:52:36.712 [main] StepDefinitions - Passed | Browser is Launched
+[INFO ] 2023-12-16 08:52:49.195 [main] StepDefinitions - Passed | Home Page title validated
+[INFO ] 2023-12-16 08:52:49.359 [main] StepDefinitions - Passed | Navigated to Demo Sites link
+[INFO ] 2023-12-16 08:52:49.532 [main] StepDefinitions - Passed | Navigated to Practice Automation link
+[INFO ] 2023-12-16 08:52:51.757 [main] StepDefinitions - Passed | Clicked on Demo Site - Alert and Popup link
+[INFO ] 2023-12-16 08:52:51.785 [main] StepDefinitions - Passed | Alert and Popup Page title validated
+[INFO ] 2023-12-16 08:52:52.007 [main] StepDefinitions - Passed | Confirm Alert box acceptance text validated
+[INFO ] 2023-12-16 08:52:52.092 [main] StepDefinitions - Passed | Confirm Alert box dismissal text validated
+[INFO ] 2023-12-16 08:52:52.201 [main] StepDefinitions - Passed | Prompt Alert box acceptance text validated
+[INFO ] 2023-12-16 08:52:52.303 [main] StepDefinitions - Passed | Prompt Alert box dismissal text validated
+[INFO ] 2023-12-16 08:52:54.144 [main] StepDefinitions - Setup is Done
+[INFO ] 2023-12-16 08:52:54.253 [main] StepDefinitions - Passed | Browser is Launched
+[INFO ] 2023-12-16 08:53:06.385 [main] StepDefinitions - Passed | Home Page title validated
+[INFO ] 2023-12-16 08:53:06.538 [main] StepDefinitions - Passed | Navigated to Demo Sites link
+[INFO ] 2023-12-16 08:53:06.696 [main] StepDefinitions - Passed | Navigated to Practice Automation link
+[INFO ] 2023-12-16 08:53:09.127 [main] StepDefinitions - Passed | Clicked on Demo Site - Registration Form link
+[INFO ] 2023-12-16 08:53:09.138 [main] StepDefinitions - Passed | Registration Form Page title validated
+[INFO ] 2023-12-16 08:53:12.668 [main] StepDefinitions - Setup is Done
+[INFO ] 2023-12-16 08:53:12.670 [main] StepDefinitions - Passed | Browser is Launched
+[INFO ] 2023-12-16 08:53:23.407 [main] StepDefinitions - Passed | Home Page title validated
+[INFO ] 2023-12-16 08:53:23.556 [main] StepDefinitions - Passed | Navigated to Demo Sites link
+[INFO ] 2023-12-16 08:53:23.728 [main] StepDefinitions - Passed | Navigated to Practice Automation link
+[INFO ] 2023-12-16 08:53:25.634 [main] StepDefinitions - Passed | Clicked on Demo Site - Dynamic Transaction link
+[INFO ] 2023-12-16 08:53:25.657 [main] StepDefinitions - Passed | Dynamic Transaction Page title validated
+[INFO ] 2023-12-16 08:53:27.435 [main] StepDefinitions - Setup is Done
+[INFO ] 2023-12-16 08:53:27.512 [main] StepDefinitions - Passed | Browser is Launched
+[INFO ] 2023-12-16 08:53:37.769 [main] StepDefinitions - Passed | Home Page title validated
+[INFO ] 2023-12-16 08:53:37.920 [main] StepDefinitions - Passed | Navigated to Demo Sites link
+[INFO ] 2023-12-16 08:53:38.076 [main] StepDefinitions - Passed | Navigated to Practice Automation link
+[INFO ] 2023-12-16 08:53:40.170 [main] StepDefinitions - Passed | Clicked on Demo Site - Mouse Event link
+[INFO ] 2023-12-16 08:53:40.181 [main] StepDefinitions - Passed | Mouse Event Page title validated
+[INFO ] 2023-12-16 08:53:41.868 [main] StepDefinitions - Setup is Done
+[INFO ] 2023-12-16 08:53:41.940 [main] StepDefinitions - Passed | Browser is Launched
+[INFO ] 2023-12-16 08:53:53.753 [main] StepDefinitions - Passed | Home Page title validated
+[INFO ] 2023-12-16 08:53:53.908 [main] StepDefinitions - Passed | Navigated to Demo Sites link
+[INFO ] 2023-12-16 08:53:54.082 [main] StepDefinitions - Passed | Navigated to Practice Automation link
+[INFO ] 2023-12-16 08:53:56.017 [main] StepDefinitions - Passed | Clicked on Demo Site - Alert and Popup link
+[INFO ] 2023-12-16 08:53:56.041 [main] StepDefinitions - Passed | Alert and Popup Page title validated
+[INFO ] 2023-12-16 08:53:57.803 [main] StepDefinitions - Setup is Done
+[INFO ] 2023-12-16 08:53:57.805 [main] StepDefinitions - Passed | Browser is Launched
+[INFO ] 2023-12-16 08:54:09.604 [main] StepDefinitions - Passed | Home Page title validated
+[INFO ] 2023-12-16 08:54:09.749 [main] StepDefinitions - Passed | Navigated to Demo Sites link
+[INFO ] 2023-12-16 08:54:09.907 [main] StepDefinitions - Passed | Navigated to Practice Automation link
+[INFO ] 2023-12-16 08:54:12.337 [main] StepDefinitions - Passed | Clicked on Demo Site - Multiple Windows link
+[INFO ] 2023-12-16 08:54:12.360 [main] StepDefinitions - Passed | Multiple Windows Page title validated
+[INFO ] 2023-12-16 08:54:15.175 [main] StepDefinitions - Setup is Done
+[INFO ] 2023-12-16 08:54:15.183 [main] StepDefinitions - Passed | Browser is Launched
+[INFO ] 2023-12-16 08:54:34.944 [main] StepDefinitions - Passed | Home Page title validated
+[INFO ] 2023-12-16 08:54:35.109 [main] StepDefinitions - Passed | Navigated to Demo Sites link
+[INFO ] 2023-12-16 08:54:35.266 [main] StepDefinitions - Passed | Navigated to Practice Automation link
+[INFO ] 2023-12-16 08:54:53.229 [main] StepDefinitions - Passed | Clicked on Demo Site - IFrame link
+[INFO ] 2023-12-16 08:54:53.243 [main] StepDefinitions - Passed | IFrame Page title validated
+[INFO ] 2023-12-16 08:54:55.491 [main] StepDefinitions - Setup is Done
+[INFO ] 2023-12-16 08:54:55.499 [main] StepDefinitions - Passed | Browser is Launched
+[INFO ] 2023-12-16 08:55:15.464 [main] StepDefinitions - Passed | Home Page title validated
+[INFO ] 2023-12-16 08:55:15.621 [main] StepDefinitions - Passed | Navigated to Demo Sites link
+[INFO ] 2023-12-16 08:55:15.793 [main] StepDefinitions - Passed | Navigated to Practice Automation link
+[INFO ] 2023-12-16 08:55:17.648 [main] StepDefinitions - Passed | Clicked on Demo Site - WebTable link
+[INFO ] 2023-12-16 08:55:17.656 [main] StepDefinitions - Passed | WebTable Page title validated
+[INFO ] 2023-12-16 08:55:19.718 [main] StepDefinitions - Setup is Done
+[INFO ] 2023-12-16 08:55:19.719 [main] StepDefinitions - Passed | Browser is Launched
+[INFO ] 2023-12-16 08:55:40.916 [main] StepDefinitions - Passed | Home Page title validated
+[INFO ] 2023-12-16 08:55:41.091 [main] StepDefinitions - Passed | Navigated to Demo Sites link
+[INFO ] 2023-12-16 08:55:41.249 [main] StepDefinitions - Passed | Navigated to Practice Automation link
+[INFO ] 2023-12-16 08:55:43.078 [main] StepDefinitions - Passed | Clicked on Demo Site - Progress Bar link
+[INFO ] 2023-12-16 08:55:43.100 [main] StepDefinitions - Passed | Progress Bar Page title validated
+[INFO ] 2023-12-16 08:55:44.621 [main] StepDefinitions - Setup is Done
+[INFO ] 2023-12-16 08:55:44.632 [main] StepDefinitions - Passed | Browser is Launched
+[INFO ] 2023-12-16 08:56:06.105 [main] StepDefinitions - Passed | Home Page title validated
+[INFO ] 2023-12-16 08:56:06.263 [main] StepDefinitions - Passed | Navigated to Demo Sites link
+[INFO ] 2023-12-16 08:56:06.419 [main] StepDefinitions - Passed | Navigated to Practice Automation link
+[INFO ] 2023-12-16 08:56:08.566 [main] StepDefinitions - Passed | Clicked on Demo Site - Mouse Event link
+[INFO ] 2023-12-16 08:56:08.580 [main] StepDefinitions - Passed | Mouse Event Page title validated
+[INFO ] 2023-12-16 08:56:08.798 [main] StepDefinitions - Passed | Text on Hover Over action is validated
+[INFO ] 2023-12-16 08:56:09.029 [main] StepDefinitions - Passed | Text on Double click action is validated
+[INFO ] 2023-12-16 08:56:26.270 [main] StepDefinitions - Passed | Registration Form title validated
+[INFO ] 2023-12-16 08:56:28.781 [main] StepDefinitions - Setup is Done
+[INFO ] 2023-12-16 08:56:28.795 [main] StepDefinitions - Passed | Browser is Launched
+[INFO ] 2023-12-16 08:56:50.311 [main] StepDefinitions - Passed | Home Page title validated
+[INFO ] 2023-12-16 08:56:50.469 [main] StepDefinitions - Passed | Navigated to Demo Sites link
+[INFO ] 2023-12-16 08:56:50.627 [main] StepDefinitions - Passed | Navigated to Practice Automation link
+[INFO ] 2023-12-16 08:56:52.697 [main] StepDefinitions - Passed | Clicked on Demo Site - Multiple Windows link
+[INFO ] 2023-12-16 08:56:52.727 [main] StepDefinitions - Passed | Multiple Windows Page title validated
+[INFO ] 2023-12-16 08:56:55.255 [main] StepDefinitions - Passed | Title of New Browser Window validated
+[INFO ] 2023-12-16 08:56:56.795 [main] StepDefinitions - Passed | Title of New Browser Tab validated
+[INFO ] 2023-12-16 08:56:58.392 [main] StepDefinitions - Setup is Done
+[INFO ] 2023-12-16 08:56:58.393 [main] StepDefinitions - Passed | Browser is Launched
+[INFO ] 2023-12-16 08:57:18.931 [main] StepDefinitions - Passed | Home Page title validated
+[INFO ] 2023-12-16 08:57:19.078 [main] StepDefinitions - Passed | Navigated to Demo Sites link
+[INFO ] 2023-12-16 08:57:19.236 [main] StepDefinitions - Passed | Navigated to Practice Automation link
+[INFO ] 2023-12-16 08:57:21.313 [main] StepDefinitions - Passed | Clicked on Demo Site - Registration Form link
+[INFO ] 2023-12-16 08:57:21.321 [main] StepDefinitions - Passed | Registration Form Page title validated
+[INFO ] 2023-12-16 08:57:21.476 [main] StepDefinitions - Passed | First Name Entered
+[INFO ] 2023-12-16 08:57:21.629 [main] StepDefinitions - Passed | Last Name Entered
+[INFO ] 2023-12-16 08:57:21.741 [main] StepDefinitions - Passed | Gender Selected
+[INFO ] 2023-12-16 08:57:21.890 [main] StepDefinitions - Passed | Street Address Entered
+[INFO ] 2023-12-16 08:57:22.001 [main] StepDefinitions - Passed | Apartment Address Entered
+[INFO ] 2023-12-16 08:57:22.132 [main] StepDefinitions - Passed | City Entered
+[INFO ] 2023-12-16 08:57:22.272 [main] StepDefinitions - Passed | State Entered
+[INFO ] 2023-12-16 08:57:22.409 [main] StepDefinitions - Passed | Pin Code Entered
+[INFO ] 2023-12-16 08:57:22.579 [main] StepDefinitions - Passed | Country Selected
+[INFO ] 2023-12-16 08:57:22.725 [main] StepDefinitions - Passed | Email Address Entered
+[INFO ] 2023-12-16 08:57:23.126 [main] StepDefinitions - Passed | Date of Demo Entered
+[INFO ] 2023-12-16 08:57:23.313 [main] StepDefinitions - Passed | Convenient Hours Selected
+[INFO ] 2023-12-16 08:57:23.441 [main] StepDefinitions - Passed | Convenient Minutes Selected
+[INFO ] 2023-12-16 08:57:23.563 [main] StepDefinitions - Passed | Mobile Number Entered
+[INFO ] 2023-12-16 08:57:23.641 [main] StepDefinitions - Passed | Interested Course Selected
+[INFO ] 2023-12-16 08:57:23.791 [main] StepDefinitions - Passed | Query Entered
+[INFO ] 2023-12-16 08:57:23.910 [main] StepDefinitions - Passed | Code Entered
+[INFO ] 2023-12-16 08:57:25.831 [main] StepDefinitions - Passed | Clicked on Submit button
+[INFO ] 2023-12-16 08:57:25.841 [main] StepDefinitions - Passed | Successfull Registration Page title validated
+[INFO ] 2023-12-16 08:57:25.866 [main] StepDefinitions - Passed | Success Message validated
