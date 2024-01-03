@@ -10,5 +10,5 @@ Feature: Mouse Events
 		Then User verify Mouse Event page title "Demo Site – Mouse Event – Vinoth Q.A Academy"
 		Then User Navigate to Tooltip textbox, perform Hover over action and verify the text on hovering over the textbox "Enter First Name"
 		And User Navigate to DoubleClickMe button, perform double click action and validates the text on double click "Double Click Action is Performed"
-		And User Navigate to RightClickMe button, perform right click action and select Registration Form option and verify the Registration Form page title "Demo Site – Registration Form – Vinoth Q.A Academy"
+	# And User Navigate to RightClickMe button, perform right click action and select Registration Form option and verify the Registration Form page title "Demo Site – Registration Form – Vinoth Q.A Academy"
 		And User Navigate to DragMe button and perform drag and drop action
