@@ -12,13 +12,11 @@
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
-  <properties>
-  <tools-systemPath46>C:\Program Files\Java\jdk-22\lib\tools-1.5.0.jar</tools-systemPath46>
-  <tools-systemPath>C:\Program Files\Java\jdk-17\lib\tools-1.5.0.jar</tools-systemPath>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.7</maven.compiler.source>
-    <maven.compiler.target>1.7</maven.compiler.target>
-  </properties>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>23</maven.compiler.source>
+        <maven.compiler.target>23</maven.compiler.target>
+    </properties>
 
   <dependencies>
     
@@ -134,7 +132,8 @@
     <version>2.22.0</version>
 </dependency>
 
-<!-- https://mvnrepository.com/artifact/com.sun/tools -->
+
+<!-- https://mvnrepository.com/artifact/com.sun/tools
 <dependency>
     <groupId>com.sun</groupId>
     <artifactId>tools</artifactId>
@@ -142,6 +141,7 @@
     <scope>system</scope>
     <systemPath>${tools-systemPath46}</systemPath>
 </dependency>
+-->
 
 <!-- https://mvnrepository.com/artifact/tech.grasshopper/extentreports-cucumber7-adapter -->
 <dependency>
