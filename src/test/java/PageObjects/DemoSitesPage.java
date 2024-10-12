@@ -22,7 +22,7 @@ public class DemoSitesPage{
 	@FindBy(linkText = "Practice Automation")
 	WebElement practiceAutomationLink;
 
-	@FindBy(linkText = "Demo Site – Registration Form")
+	@FindBy(linkText = "Registration Form")
 	WebElement regFormLink;
 
 	@FindBy(linkText = "Demo Site – Dynamic Transaction")

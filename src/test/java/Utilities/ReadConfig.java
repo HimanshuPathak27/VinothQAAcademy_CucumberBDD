@@ -10,7 +10,7 @@ public class ReadConfig {
 	public ReadConfig() {
 		properties = new Properties();
 		try {
-			FileInputStream file = new FileInputStream(".\\src\\test\\java\\Utilities\\config.properties");
+			FileInputStream file = new FileInputStream("/Users/himanshupathak/IdeaProjects/VinothQAAcademy_CucumberBDD/src/test/java/Utilities/Config.properties");
 			properties.load(file);
 		} catch (Exception e) {
 			e.printStackTrace();
