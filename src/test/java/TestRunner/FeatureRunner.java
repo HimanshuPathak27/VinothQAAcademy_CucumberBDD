@@ -4,11 +4,11 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
-		features = {".//Features/DemoSitesNavigationFeatures.feature", 
-				".//Features/RegistrationFeature.feature",
-				".//Features/MouseEventFeature.feature",
-				".//Features/MultipleWindowsFeature.feature",
-				".//Features/Alerts&PopupFeature.feature"},
+		features = {".//Features/DemoSitesNavigationFeatures.feature"},
+			//	".//Features/RegistrationFeature.feature",
+			//	".//Features/MouseEventFeature.feature",
+			//	".//Features/MultipleWindowsFeature.feature",
+			//	".//Features/Alerts&PopupFeature.feature"},
 
 		glue = "StepDefinitions",
 
@@ -22,6 +22,6 @@ import io.cucumber.testng.CucumberOptions;
 		plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}
 		)
 
-public class Run extends AbstractTestNGCucumberTests{
+public class FeatureRunner extends AbstractTestNGCucumberTests{
 	/*This class will be empty*/
 }

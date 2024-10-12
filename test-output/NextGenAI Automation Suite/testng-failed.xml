@@ -3,13 +3,13 @@
 <suite name="Failed suite [NextGenAI Automation Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="NextGenAI Automation Tests(failed)">
     <classes>
-      <class name="TestRunner.Run">
+      <class name="TestRunner.FeatureRunner">
         <methods>
           <include name="setUpClass"/>
           <include name="tearDownClass"/>
           <include name="runScenario" invocation-numbers="0"/>
         </methods>
-      </class> <!-- TestRunner.Run -->
+      </class> <!-- TestRunner.FeatureRunner -->
     </classes>
   </test> <!-- NextGenAI Automation Tests(failed) -->
 </suite> <!-- Failed suite [NextGenAI Automation Suite] -->

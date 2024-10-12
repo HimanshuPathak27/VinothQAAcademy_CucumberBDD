@@ -5,7 +5,7 @@
 <suite name="NextGenAI Automation Suite">
   <test thread-count="5" name="NextGenAI Automation Tests">
     <classes>
-      <class name="TestRunner.Run"/>
+      <class name="TestRunner.FeatureRunner"/>
     </classes>
   </test> <!-- NextGenAI Automation Tests -->
 </suite> <!-- NextGenAI Automation Suite -->
